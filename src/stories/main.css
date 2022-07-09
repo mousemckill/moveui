@@ -1,8 +1,8 @@
-.grid {
+.grid-story {
     background-color: #FFD657;
 }
 
-.grid > div {
+.grid-story > div {
     background-color: #FF8173;
     text-align: center;
     padding: 20px 0;

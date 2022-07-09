@@ -101,7 +101,7 @@ const cssClasses = computed(() => {
     grid-column-end: span 2;
   }
   .grid-col--md-span-3 {
-    grid-column-end: span 4;
+    grid-column-end: span 3;
   }
   .grid-col--md-span-4 {
     grid-column-end: span 4;
@@ -144,7 +144,7 @@ const cssClasses = computed(() => {
     grid-column-end: span 2;
   }
   .grid-col--lg-span-3 {
-    grid-column-end: span 4;
+    grid-column-end: span 3;
   }
   .grid-col--lg-span-4 {
     grid-column-end: span 4;

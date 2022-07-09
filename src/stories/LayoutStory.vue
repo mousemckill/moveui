@@ -1,6 +1,6 @@
 <template>
   <ui-container>
-    <ui-grid>
+    <ui-grid class="grid-story">
       <ui-grid-col span="2" lg-span="4">span 2</ui-grid-col>
       <ui-grid-col span="1" md-span="4" lg-span="2">
         span 1/md span 4
